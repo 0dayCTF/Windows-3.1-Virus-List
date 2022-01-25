@@ -1,0 +1,1112 @@
+FLOSS static ASCII strings
+********@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%
+t	<ar
+!<Rt
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+      Microsoft Anti-Virus for Windows       
+(c) 1992-1993 By Central Point Software Inc. 
+                                             
+   This program requires Microsoft Windows   
+Self Integrity Check warning - File was changed !
+Choose an option:
+[R] Attempt Self Reconstruction.
+[E] Exit to DOS.
+Press R or E:$
+Reconstruction fail !!
+$Self Integrity Check warning - File size was changed !
+Suspected virus infection.
+Prees any key to continue.
+$Self Integrity Check fail !
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+CPAVICON
+WN31LOGO
+OPTIONS
+VIRLIST
+AVBITMAP	KARSTBUGS	KARSTFLDR	KARSTGLAS	KARSTGLS2	KARSTFLD2
+CPAVMENU
+ABORT
+MWAV
+___EXPORTEDSTUB
+KERNEL
+USER
+KEYBOARD
+win87em
+MWGRAFIC
+MWAVSCAN
+MWAVDLG
+MWAVABSI
+MWAVDRVL
+MWAVSOS
+3Central Point Anti-Virus for Windows by Eli Shapira
+MAPPING(
+SUBLIMDRAWBUGS
+SCANTHEFILEFORVIRUSESCB'
+PROGRESS_DIALOG
+ABOUT
+OLDMINWNDPROC
+SUBLIMDRAWFLDR
+SUBLIMDRAWGLAS
+AVBITMAP
+DELETECHECKLISTFILESCB+
+BITMAPPROC
+VIRINFOVIEWER
+PRINTABORTDLG
+EXIT
+WNDENUMFUNC5
+SUBLIMDRAWBUGSVIRINFO
+STATISTICS
+SUBLIMDRAWBUGSMAINSCREEN
+AIO_LOGDRIVECB)
+PROPENUMFUNC4
+PRINTABORTMSG
+VIRLIST
+OPTIONS
+BIG_BUTTONS_DIALOG
+VIRLISTBOX1
+w<69
+[Z@$
+?/um
+?/u$
+?.uK
+?.u6
+?/t"
+!<Nu
+WVS3
+[^_]
+SQVW
+_^Y[
+tkGN
+tX<"t$<\t
+t'<"t
+?CCN
+t^<"t'<\t
+t*<"t
+_^Yt
+RPRP
+0<9v
+!@:F
+Ht2Ht
+^_MM
+?0tE
+^_MM
+?1u	
+<5r*
+PSQR2
+ZY[X
+P<-t
+QSRUVP
+kU'9
+HMXB
+?Zd;
+?/L[
+S;uD
+z?aUY
+D?$?
+U>c{
+zc%C1
+.:3q
+-64OS
+NKeb
+QVW&
+<+t	<-u
+<0r!<9w
+!<.u
+<+t	<-u
+<0r?<9w;-0
+<0r$<9w ,0
+AkU'9
+?S;uD
+zc%C1
+MWAV.HLP
+Helv
+   %s
+%s	%s	%ld	%d
+%s	%s	%s	%d
+.COM
+ .EXE
+.COM
+.EXE
+ COMMAND.COM,
+\12345678.ELI
+CLASS_AVBITMAP
+CPAVMENU
+CPAVMENU
+hand
+cpavicon
+CPAVMENU
+WNCPAV:MAIN
+MWAV.HLP
+CLASS_AVBITMAP
+WNCPAV:MAIN
+iDate
+intl
+sDate
+intl
+%02d%c%02d%c%02d
+%02d%c%02d%c%02d
+iTime
+intl
+%02d:%02d:%02d
+sTime
+intl
+%02d%c%02d%c%02d
+France
+sTime
+intl
+%02d%c%02d%c%02d
+France
+AbCdEfGhIjPqKlMnOs
+  :  :  
+.EXE
+.COM
+device
+windows
+Abort
+WNCPAV Print Job.
+CHKLIST.MS
+CHKLIST.MS
+         (((((                  H
+_C_FILE_INFO=
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+e+000
+1#SNAN
+1#QNAN
+1#INF
+1#IND
+1#SNAN
+1#QNAN
+1#INF
+1#IND
+<<NMSG>>C RUNTIME ERROR 
+R6000
+- stack overflow
+R6003
+- integer divide by 0
+R6009
+- not enough space for environment
+run-time error 
+R6002
+- floating-point support not loaded
+M6101: MATH
+- floating-point error: invalid
+M6102: MATH
+- floating-point error: denormal
+M6103: MATH
+- floating-point error: divide by 0
+M6104: MATH
+- floating-point error: overflow
+M6105: MATH
+- floating-point error: underflow
+M6106: MATH
+- floating-point error: inexact
+M6107: MATH
+- floating-point error: unemulated
+M6108: MATH
+- floating-point error: square root
+M6109: MATH
+- floating-point error: integer overflow
+M6110: MATH
+- floating-point error: stack overflow
+M6111: MATH
+- floating-point error: stack underflow
+M6100: MATH
+- floating-point error: explicitly generated
+Helv
+&Detect
+Detect and C&lean
+PAV_DRVLIST
+PMSW_WN_GrKarst
+Drives:
+Status:
+Selected:
+Drives
+Directories
+Files
+Last Virus Found:
+None
+Last Action:
+None
+Date:
+Helv
+&Detect
+Detect and C&lean
+PAV_DRVLIST
+PMSW_WN_GrKarst
+Drives:
+Status:
+Selected:
+Drives
+Directories
+Files
+Last Virus Found:
+None
+Last Action:
+None
+Date:
+Helv
+&Pause
+PMSW_WN_GrKarst
+PMSW_WN_GrKarst
+PMSW_WN_GrKarst
+PMSW_WN_GrKarst
+PMSW_WN_GrKarst
+PMSW_WN_GrPercentDone
+100%
+Now scanning:
+In directory:
+PMSW_WN_GrIconMovie
+&9G:t
+&9G:
+&9G:
+&9G:
+&9G<|
+&;GJ|
+&;GJr
+WV^_
+-!Nu
+QPP+
+a$0 
+`0``
+!` $ 
+0    !%! 
+ `0`b
+A!!a%"B
+p0 @ 
+@BB@  0BB
+ 40$4 % `(
+a b$$"
+#`"a(`r
+!` @
+ $0R
+acC`b
+  0 A
+0@ B
+#BA @!` a` 4%$&
+4%$ "B
+@0R46
+B#a%#B
+!b!aa`
+ P B@
+#A %$4
+`0!!
+ 0!%%
+%!!e
+&&("
+p0! 
+  2@
+BBp``$ "B
+&% d "@6
+4(!a(
+@!BB
+   0
+$!BB
+```%!#
+!(%'b
+``4"
+B2#b("
+a`0@p
+AbPbPg
+%% #B@
+ `b`$
+` %ab
+!Ce!B#Ca('cB
+H$ef
+ $ !`2B
+$40C  $4
+`````6
+042!(%&
+C@`@6
+!`@ 
+` @!$0
+0$0` aa`4% a``!
+`!` b
+4% bR
+`$ b&
+'a!`Rc%c
+&"CBB&
+00 $
+H#B@`
+$ %!CBP$! `%
+`0` 46P46#C%!aa`
+(#% 
+0$'&6
+ a`"
+RbC&
+44&0a&
+  $04$0
+R 0B4
+  $ R
+CA  ` BB
+p % ` 
+`0400R@`0R"
+B' (
+& a`
+% ``
+"H#BRBCc$6
+'%#`
+b46&&
+#BcbR 
+6@0C
+``$$"
+B%#&$&
+P420
+ `40$cb
+2BV jCB
+"cB`%!b4&0%"
+@a %!$$!`!c
+"C$$ 0
+`$! aaa`
+BC`4%!!C@c
+B F  cCJ04
+$b$"J
+b&BD&!"
+4ab!cB&62`
+46"B
+CB@`
+@0!`r
+!`% 
+bB0RB
+B!$04
+0e e 
+4 $CB#`
+ $ R
+`a!C% R a#r2
+$(!(%"4
+2"V'!cB
+ p R@%
+"B4% rRpc
+!`aa&b
+"a&C%
+B#A$%!aB0` 
+6 $& `!c"$4`4
+h!b$!$&2$"
+d!cBbB
+`aCCc!Bb
+6r46r
+$((&
+@`$$$%$
+00R`6
+%!`bd
+a `b
+( cB
+&CH&
+6'%$0
+ B44"
+&&ZF(!`%#Ba(
+($62BCb
+CC`04
+ h !B
+ Bb%&
+'BBR
+R`"a`&
+4b`&4"
+`$2`
+aa$"ab
+2$66%($&
+(($"cV
+w4 f6"B
+2Ccc$6
+a`2B
+``$$406
+4"Rr
+$(( d`aar$&
+42"c
+"R"c"R!cbCb
+c%'$
+bBC&
+cBb6
+b6&cB
+Rp442B
+b$% a$#B%% b ah(
+0`c$&H
+cb2b%(gb&&0
+%%$6%&
+($66(
+C&$2acb
+ `!BA!` 
+aad"C` $
+0RR$4b
+V6 $&%(
+#CCBbRbcb
+Bcbb
+c$#C$
+&%&6
+(sBc(
+&66(&40
+$ %$  b
+bcbs&`h$&`
+cc&#d(ebf66
+4(%$6
+d2`c&2
+ccCb
+6"CBRbc%!c
+a r`rRC!e!$&
+abp$0
+$62b%$acacBb
+RCBH
+B8%&6
+Bd4b6
+6((&6&6 c&
+b(!f
+6($42
+ab(aab
+`e6(&6
+$$ 0
+`0`&
+#b%&%(#
+&646
+cb6"
+&%f`
+Cd&bRcb
+$6#H(e&
+CbCcR
+`h%b
+2bV(&
+&(&4#cacc
+P4"C"
+C bRc%b
+Rb`bcab
+&%%e&
+C`b0ce(C
+($6b6
+4(&4b$2c&
+&4&(
+4(%&4(&6466&$(
+!bacccf
+`cCCCB6&6&
+! `@`
+@RBBBB$aB$4$&
+&"Vc$
+%$"Sce
+#cCbBcR6
+`&af
+ad&g
+c&V6(
+#h&Cd6(%(%
+cbcgx&#baccJcbRcBcbRf46%6$6($8(44&
+%! 0!
+A #CCcah((j:/
+((&&
+&$60bg&
+bCGe$bBe(
+d&Ce6#b&
+c(&RV2bRcb
+f6#b
+bbBe($&
+6'bRCb
+bR(&
+&&666
+8"c`
+0$4&
+ @@B
+@pTD@DVH&6
+466(h%&6h$
+H6&662R
+Cbb$abaf8
+(%(B
+C'66
+bacbc`
+(6($46
+Cb$6% 
+f((bP
+$!!`B
+&h&4"
+%bcf("
+#H c
+6(cbcCB
+f(($2hbBcB
+&6&46&0
+6!cb
+h($&78&6&((&"
+B`24
+h(#&
+bRF4(Chf6
+,(cbb
+&66>
+c`cJ6
+bV5&r
+e$46RbbRa`ce&cCB
+($(&(
+xbv0c&
+66b`
+C`aB
+ `4&cbb("6"
+665b
+c%$b&7
+chhe&
+ccbh(&RhCccb
+cbf#ce&6&6r(2bcjV(66
+cF6R
+2`2RP
+(cf(&
+a`af&2V
+4%ehHFB
+h(&6
+hc%f8&&5&g6(
+6(&$&
+5(&44bB66
+6ch$acbZ(
+$("cb
+h&r6
+bch"R
+ccbR
+`#ABB
+& b4$h("
+6&6 
+chh&c&
+#`h%&&
+bRcB
+&7cF$(
+7`&2
+CbV&66(RccR%#b
+(&64$
+Aa``0a%(
+%cH`
+cbC(
+2"`w
+66666b
+(&6&4bR
+cb66
+(0cCbcBb(bcBb
+%'(R
+ `4&
+B`$6df
+ b p
+6$64&
+46&Cb
+6660
+4h(CbR`
+cgcf((($68abRcec&662b"Ra
+d&66'66662
+'$! 
+62Cb$cacbccb
+xhh2h2h(cha
+c$6(&(&(&
+`cch&42
+2d6((Chbcbc(
+cC`cc
+ !A AC
+@B64(#d$64
+"bRRcB
+V6($((b
+cv(b
+Bccc`6(&
+cb(8$$
+`a@B
+ 4!cB
+`c``66$
+H&(R
+bcF6&
+f6(h(c` (`0
+cF&2CB
+(&3bRcccB
+0bR((cBcC
+Cccb
+Rc$46
+c(&6((
+<$6%&Ch(&2cccb&
+ccbcbc
+"b!"
+ `a`A
+!$%!`
+B('v
+22V#cB
+ce&6(%&2RJ6cb
+$2d&
+h&#cg
+Rccb
+cc&6cb
+% 006%%66
+62r6&&BR
+`bcbfGb6
+0bcH&6F
+R6c(
+Ccc"6( 
+h&ccfRcabCabcbR`
+h&3c6
+B``R"'
+4(!#c&#k
+cc%&6
+&6cR
+%&#6#bZ`GC
+hh(&
+cc&6(6((
+A @p
+`062%8"
+!  %'g4$3b2666
+BRRBaa&
+2&2(b
+6($2bb
+6f6Cc
+6c6"cbR#$62
+h&((((&6
+ccccb
+#&a"
+!2B6&2b:
+&(&6&64h&H"R'cB
+Cc`%&#
+cachF6hbF<
+cbbcf"#
+cb663hcaD
+ad3&40(
+pb0`:
+V6(&
+@ C(%b
+0f6'#&2
+P0@&
+c6!#@"
+#ch"
+%bRbcHchF b&
+Bbc(&"c(#2
+t("Rhh#hhhxh6ch
+(bf6f"
+  $#(
+48%(f68&2
+$#%b362
+bRRAe%
+"""6
+6&bb"&b*"
+! 0!$
+#c##&
+26$2R
+$ !$0
+` RCE$x&
+B 4!
+22#j
+ach&
+"2c 00@ 
+`40bSVV
+ RGd?
+8 $$%
+`&6! c
+df646
+%&6(/
+&v2x
+B4'c@@ 
+b BRRce6
+@%hX(
+ c&(c
+(#c"
+cCCH
+4 AB
+c %%(Chj
+@`0@v
+a%!!#b
+!@@0
+D0$$
+PB6&2
+V4%/
+ $% #
+!c&(6
+(fX^
+`$% #a
+Aa`eEmf
+15!a`
+c$!cc
+R0&6
+Bcch.BC
+@a@ad
+!FF!b
+B0h6
+BRRVTh^
+`Pa"54"
+DRRHXl
+^-ebR
+! $4$ahvhXh%h
+0BPRHCFRXFe$Z
+`P444
+$$%`cFB
+ @P!
+2aa`
+`a`4
+2%0!$
+51!Q
+20``a 
+P0pP
+8QaA
+SR4440
+q0RP
+Sa!0
+a!!!8
+pRCA
+8R3R
+83S46
+@38=
+8SX53
+a@0o
+Qi8%2
+CP  
+RQ 1A@
+%8%4
+Qa0`
+SU0a
+T0%0
+    ?
+ABPQ!b0!$
+#1#%0
+91Q1SY
+!a%$
+%01#
+R@B@
+@PVF
+P405!
+A$! `
+5111A5
+6AH@0@$`$
+%%8U
+9991
+!!a1
+Re%(@6
+AmhRV
+Q1S1
+BPB@a`A`
+51541
+!APq
+FVVCBC
+440F
+a$0a
+Q155!1
+5150
+@AB@
+ OgbV
+Q11%
+BR@PB
+$%CC
+ 0@/
+1501C
+@ p@^
+0P  
+HC@``
+aB@$
+`RPa'@ 0
+1a!aQ%0A0
+Ad$%
+ aBR
+a$4 P
+5!00
+Q410RQ
+CA`BB
+@Q!C
+010Q
+P0p@
+4 B@
+00p 
+4 PBR
+@@A 
+ll\l
+lllf
+FLlll
+ldmN
+F\lllLdLd
+elEH
+nVll
+leHFVe
+dTlleh
+ledl
+l\llLE
+lLlh
+dhFHfdeldEdeDLlN\ell
+TeF^
+Lldf
+lllLLlLdlDlD
+eHeeHeehEhEeHeEeEeHeHeHeEeeeHeeHhH
+hhhh
+llLlll
+&Scan
+&Detect
+&Clean
+Delete CHKLIST &files
+&Virus List
+E&xit Anti-Virus
+Optio&ns
+Set &Options...
+&Save Settings on Exit
+&Help
+&Index
+&Keyboard
+&Glossary
+&Using Help
+&About Anti-Virus...
+helv
+PMSW_WN_GrKarst
+Cancel
+Please Wait
+Statistics
+Helv
+PMSW_WN_GrKarst
+Scanned
+Infected
+Cleaned
+Hard Disks
+Floppy Disks
+Total Disks
+COM Files
+EXE Files
+Other Files
+Total Files
+Scan Time
+helv
+PMSW_WN_GrKarst
+Microsoft Anti-Virus for Windows
+Copyright 1993 Central Point Software Inc.
+wn31logo
+About Anti-Virus
+helv
+Copyright 
+ 1993
+Central Point Software Inc.
+wn31logo
+Options
+Helv
+PMSW_WN_GrKarst
+&Verify Integrity
+&Create New Checksums
+Create Checksu&ms on Floppies
+&Disable Alarm Sound
+Create &Backup
+Prompt &While Detect
+Anti-&Stealth
+Check &All Files
+Wipe De&leted Files
+Virus List
+Helv
+PMSW_WN_GrKarst
+Virus Name
+Type
+Size
+Virus name
+Find &Next
+&Info
+&Print
+Search for:
+Information About Virus
+Helv
+PMSW_WN_GrKarst
+cpavicon
+&Print
+Exit Microsoft Anti-Virus
+Helv
+PMSW_WN_GrKarst
+Cancel
+This will close Microsoft Anti-Virus.
+cpavicon
+Helv
+PMSW_WN_GrKarst
+cpavicon
+Now printing to
+&Cancel
+Microsoft Anti-Virus
+WNCPAV:MAIN
+cpavicon
+CPAVMENU
+Network Access not Allowed.
+Please select a drive.
+;Not enough memory.
+Close some applications, then try again.
+Disk error
+Drive door is open.
+'Disk error
+Diskette is write-protected.
+A drive must be selected
+$Disk error
+Error cleaning the virus.
+Virus Information
+Last Virus Found:
+Selected
+Directories:
+Files:
+Last Action
+Action:
+Date:
+Drives:
+None
+Drive was not logged.
+Detected
+Cleaned
+Deleted
+Renamed
+Stopped
+Updated
+Repaired
+Wiped
+No selected files to remove
+VEXCEPT.CPS
+Please enter a valid filename.
+REPORTS
+REPORTS\REPORT.
+REPORTS\REPORT.*
+Anti-Virus for Windows.
+Virus search report for date: 
+  /  /  
+  :  :  
+Detect
+Clean 
+Immune
+Disimm
+Total boot sector viruses found :	
+Total boot sector viruses removed :	
+Total Files checked :	
+Total File viruses found :	
+Total File viruses removed :	
+END OF REPORT.
+Virus %s was found in file:
+$File was cleaned - virus destroyed
+%s Boot sector virus was found in drive %c:.
+.Boot sector was cleaned - virus destroyed.
+Verify error in file:
+#The file information was updated.
+The File was deleted.
+The file was repaired.
+The file was wiped.
+The file was renamed.
+options
+verify_integrity
+new_checksums
+new_floppies
+disable_alarm
+create_backup
+create_infreport
+anti_stealth
+check_all_files
+prompt_while_detect
+network_access
+detection_only
+	no_update
+no_continue
+no_scan_stop
+disable_hotkey
+wipe_files
+	auto_save
+custom_message
+custom_message2
+network_message
+password
+MWAV.INI
+	karstfld2
+schedulr
+password
+options
+virlist
+activity
+drivedir
+	karstbugs
+message
+	karstglas
+	karstfldr
+	karstgls2
+`Gjlt_Tgfs.Dhkqw_fxz_wjk;pox_xz_Fhbhfr_Gzkhjk;l_Qikjcllfrty_3::7-_Aq_Zxcfr_Gjl;wrt_'_Xcf_Keytuow/
+`Uijt_Bouj.Wjsvt_xbt_xsjuufo_cz_DBSNFM_Tpguxcsd_Fohjoffsjoh_2::1-_Cz_Zvwbm_Tifsnbo_'_Fmj_Tibqjsb/
+`Zaqw_Kuhh.Kwgnk_aqw_dmhjkle_cx_Xkjghh_Akjlhjhj_Tkjgfgfkghk_8::9-_Aq_Zlkjh_Okjgfhf_'_Dhg_Bfgfjhj/
+File  
+Boot  
+Trojan
+ Total No. of viruses:			
+N/A(Virus List File: MSAVIRUS.LST not found.z__________________________________________________________________________________________________________________________
+MSAVIRUS.LST
+Printing Virus List
+Virus	Type	Size	#
+Virus list
+Printing Virus information
+Printing File viewer/_______________________________________________
+ and
+Virus Characteristics 
+%s virus: 
+%s virus 
+(Alias for %s): 
+This %s is %lu bytes long. 
+ file virus
+ trojan horse
+It infects 
+ files
+ as well as
+ overlay files,
+ system files,
+ data files,$
+This boot virus is %d bytes long. 
+$It infects boot sectors of diskettes
+ hard disks. $ the partition table of hard disks. 
+It remains
+It does not remain
+ resident in memory,
+ uses stealth techniques,
+ uses self encryption,
+ uses self modifying code,
+Side effects include
+ corrupted data files,
+ damaged file linkage,% corrupted program and overlay files,& changes to system run time operation,4 reformatting or overwriting parts of the hard disk,
+ changes to the boot sector,
+  changes to the partition table,( unrecoverable damage to infected files,> changes to operation of peripherals (printers, modems, etc.),
+ creation of 'bad' sectors, Reading directories for drive %c
+Infection Report for: 
+Printing Activity log,Date	Time	Drive	Action	Files	Viruses	Cleaned
+Activity log
+V______________________________________________________________________________________
+0Are you sure you want to clear the activity log?
+Activity log not found.
+Unable to create Printer DC.
+Unable to print.
+Report file not found.
+Process was paused.
+,Command line switches conflict with options.
+No infection information.
+4Are you sure you want to delete the checklist files?
+Virus %s was cleaned in file
+No viruses found in file
++Subdirectories on command line not allowed.
+$Invalid file name or file not found.
+.Wildcards are not allowed in the command line.
+)Message too long - maximum 40 characters.
+&Cancel
+&Stop	C&ontinue
+C&lear
+&Delete
+&Retry
+Anti-Virus for Windows  Microsoft Anti-Virus for Windows
+wwwww
+wtHw
+ww33
+wwwx
+wwwwwwwwwwwww
+wwwwwwwwwwp
+fffff
+wwwwwwwwwwwww
+wwwwwwwwwwp
+fffff
+fffff
+offffi
+3333
+wwwwwwwwwwwww
+wwwwwwwwwwp
+fffffgf
+fffffgf
+fffffff
+3333
+wwwwwwwwwwwww
+wwwwwwwwwwp
+fffff
+fffwfi
+3337
+fffi
+fffff
+wwwwwwwwwwwww
+wwwwwwwwwwp
+3333
+f`30
+fffff
+fffff
+wwwwwwwwwwwww
+wwwwwwwwwwp
+`30w
+fffffgf
+fffffgf
+ppxxp
+NB02
+
+FLOSS static Unicode strings
+"+4<EN
+d			
+    
+    
+cZY,
+
